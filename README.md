@@ -1,4 +1,4 @@
-Cyclistic Project
+SUPERMARKET CUSTOMER ANALYST
 ==============================
 
 Design marketing strategies aimed at converting casual riders into annual members.
@@ -15,9 +15,7 @@ Project Organization
     │
     ├── docs               <- Documentation of your project
     │
-    ├── notebooks          <- Jupyter notebooks. The naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
+    ├── notebooks          <- Jupyter notebooks. It is containing about data cleaning and data analytics.
     │
     ├── reports            <- Generated analysis as HTML, PDF, LaTeX, etc.
     │   └── figures        <- Generated graphics and figures to be used in reporting
@@ -47,4 +45,4 @@ Project Organization
 
 --------
 
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+<p><small>Project based on the <a target="_blank" href="https://drive.google.com/drive/folders/1WodnBbuYTvsF0-6HTuQABQ0KCS31lqbK">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
